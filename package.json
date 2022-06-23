@@ -36,7 +36,7 @@
     "chai-enzyme": "^1.0.0-beta.1",
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "mocha": "^6.2.0",
     "sinon": "^7.3.2"
   }
